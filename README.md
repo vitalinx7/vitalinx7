@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vitalino</h1>
 <h3 align="center">A curious software engineer</h3>
 
-- 🔭 **I’m currently working on:** learn
+- 🔭 **I’m currently working on:** - Learning
 
-- 🌱 **I’m currently learning:** web development
+- 🌱 **I’m currently learning:** - Web development
 
-- 💬 **Ask me about:** code
+- 💬 **Ask me about:** - Code
 
-- ⚡ **Fun fact:** I don't like too many files scattered on my computer
+- ⚡ **Fun fact:** - I don't like too many files scattered on my computer
 
 <h3 align="left">Connect with me:</h3>
 
