@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitalino</h1>
+<h1 align="center" background-color: #f6f8fa>Hi 👋, I'm Vitalino</h1>
 <h3 align="center">A curious software engineer</h3>
 
 - 🔭 **I’m currently working on:** - Learning
