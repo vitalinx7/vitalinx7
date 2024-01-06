@@ -1,13 +1,15 @@
-<span style="color:blue"><h1 align="center">Hi 👋, I'm Vitalino</h1></span>
-<h3 align="center">A curious software engineer</h3>
+<h1 align="center">Hi 👋, I'm Vitalino </h1>
 
-- 🔭 **I’m currently working on:** - Learning
+<h3 align="center"><i>A curious software engineer</i></h3>
 
-- 🌱 **I’m currently learning:** - Web development
+ 🔭 **I’m currently working on:** - Learning
 
-- 💬 **Ask me about:** - Code
+ 🌱 **I’m currently learning:** - Web development
 
-- ⚡ **Fun fact:** - I don't like too many files scattered on my computer
+ 💬 **Ask me about:** - Tech
+
+ ⚡ **Fun fact:** - I don't like too many files scattered on my computer
+  
 
 <h3 align="left">Connect with me:</h3>
 
