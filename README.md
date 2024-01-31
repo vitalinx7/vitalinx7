@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/vitalinx7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" "alt="linkedin" height="40" width="40" /></a>
 <a href="https://instagram.com/vitalinx7" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="instagram" height="50" width="45" /></a>
-<a href="https://discordapp.com/users/vitalinx7" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="discord" height="41" width="45" /></a>
+<a href="https://discordapp.com/users/vitalinx7" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="40" width="45" /></a>
 </p>
 
 ## Languages and Tools
